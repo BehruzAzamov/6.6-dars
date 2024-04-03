@@ -1,0 +1,25 @@
+.home-page_title {
+  display: flex;
+  justify-content: center;
+}
+
+.home-page_body {
+  display: flex;
+  justify-content: center;
+}
+
+.about-foods {
+  margin-top: 40px;
+  width: 50%;
+}
+
+.sector-of-home {
+  display: flex;
+  gap: 400px;
+}
+
+.sector-of-home img {
+  width: 900px;
+  height: 450px;
+  border-radius: 40px;
+}

@@ -1,0 +1,40 @@
+body {
+  color: black;
+}
+
+.read-more {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.read-more h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.read-more img {
+  max-width: 100%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.read-more p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.read-more h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.read-more ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.read-more li {
+  margin-bottom: 5px;
+}
